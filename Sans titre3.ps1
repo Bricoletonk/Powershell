@@ -1,0 +1,1 @@
+﻿$Cote = Read-Host  "Veuillez saisir à nouveau la cote du stagiaire $($i)"
